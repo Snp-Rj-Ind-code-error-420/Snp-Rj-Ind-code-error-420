@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif"  />
+<img align="right" height="200" src="https://i.giphy.com/media/yALcFbrKshfoY/giphy.webp"  />
 
 ###
 
@@ -35,6 +35,7 @@
 <div align="center">
 <img align="center" height="200" width="504" src="https://i.giphy.com/media/kQuOMTeadVK24/giphy.webp"  />
 </div>
+
 ##
 
 <h3 align="left">🔥   My Stats :</h3>
