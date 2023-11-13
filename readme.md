@@ -57,9 +57,9 @@
 
 ###
 
-
+<!-- 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Snp-Rj-Ind-code-error-420/Snp-Rj-Ind-code-error-420/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
