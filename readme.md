@@ -33,7 +33,7 @@
 ###
 ##
 <div align="center">
-<img align="center" height="265" width="504" src="https://i.giphy.com/media/kQuOMTeadVK24/giphy.webp"  />
+<img align="center" height="250" width="504" src="https://i.giphy.com/media/kQuOMTeadVK24/giphy.webp"  />
 </div>
 ##
 
