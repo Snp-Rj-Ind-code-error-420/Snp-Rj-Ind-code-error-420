@@ -21,9 +21,9 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-<<<<<<< HEAD
+
           github_user_name: ${{Snp-Rj-Ind-code-error-420}}
->>>>>>> 9cac345f07978ffa942d40fcbdfacdb01984a207
+
           outputs: dist/snake.svg?palette=github-dark
 
 
