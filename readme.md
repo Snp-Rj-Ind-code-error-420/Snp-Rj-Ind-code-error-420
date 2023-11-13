@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">student keen to learn</p>
+ - <p align="left">student keen to learn</p>
 
 ###
 
