@@ -11,7 +11,7 @@
 ###
 
  - <p align="left">student keen toward learn</p>
- - <p align="left">[E-mail](rajasardar262004+b0g0h@gmail.com) </p>
+ - [E-mail](rajasardar262004+b0g0h@gmail.com)
 
 ###
 
