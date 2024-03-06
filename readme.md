@@ -1,4 +1,4 @@
-<img align="right" height="300" src="https://i.giphy.com/media/yALcFbrKshfoY/giphy.webp"  />
+
 
 ###
 
@@ -9,7 +9,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
+<img align="right" height="300" src="https://i.giphy.com/media/yALcFbrKshfoY/giphy.webp"  />
  - <p align="left">student keen toward learn</p>
  - [E-mail](mailto:rajasardar262004+b0g0h@gmail.com)
 
